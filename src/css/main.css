@@ -40,6 +40,7 @@ article h6 {
 
 article hr {
 	width: 75%;
+	border: 1px solid #444;
 }
 
 article p {
@@ -55,6 +56,7 @@ footer {
 }
 
 footer hr {
+	border: 1px solid #444;
 	width: 200px;
 	margin-left: 0px;
 }
