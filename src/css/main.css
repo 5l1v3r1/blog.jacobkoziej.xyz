@@ -7,3 +7,24 @@ article {
 	color: #444;
 	padding: 0px 10px;
 }
+
+article h1 {
+	text-align: center;
+	line-height: 0.4em;
+}
+
+article h6 {
+	text-align: center;
+	line-height: 0em;
+	font-size: 14px;
+	color: #555;
+}
+
+article hr {
+	width: 75%;
+}
+
+article p {
+	text-indent: 2em;
+	text-align: justify;
+}
