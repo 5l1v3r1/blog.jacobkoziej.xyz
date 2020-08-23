@@ -46,3 +46,19 @@ article p {
 	text-indent: 2em;
 	text-align: justify;
 }
+
+/* Footer specific */
+footer {
+	font-size: 14px;
+	line-height: 0.25em;
+	margin-top: 40px
+}
+
+footer hr {
+	width: 200px;
+	margin-left: 0px;
+}
+
+footer a {
+	text-decoration: none;
+}
