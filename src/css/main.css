@@ -1,0 +1,9 @@
+/* Article specific */
+article {
+	margin: 40px auto;
+	max-width: 650px;
+	line-height: 1.6em;
+	font-size: 18px;
+	color: #444;
+	padding: 0px 10px;
+}
