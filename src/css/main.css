@@ -1,5 +1,5 @@
-/* Article specific */
-article {
+/* Body specific */
+body {
 	margin: 40px auto;
 	max-width: 650px;
 	line-height: 1.6em;
@@ -8,6 +8,7 @@ article {
 	padding: 0px 10px;
 }
 
+/* Article specific */
 article h1 {
 	text-align: center;
 	line-height: 0.4em;
